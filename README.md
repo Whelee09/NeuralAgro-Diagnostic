@@ -73,9 +73,9 @@ Las imágenes fueron procesadas para extraer características visuales almacenad
 | Recurso | Link |
 |---------|------|
 | Video | [YouTube](#) |
-| Notebook Funcional | [Google Colab](#https://colab.research.google.com/drive/14OqVR6-_4uRwPPuiyz8_1zZrbksHxJkq?usp=sharing) |
-| Presentación | [Diapositivas](#https://canva.link/28qijb1dwxftrtt) |
-| Repositorio | [GitHub](#https://github.com/Whelee09/NeuralAgro-Diagnostic) |
+| Notebook Funcional | [Google Colab](https://colab.research.google.com/drive/14OqVR6-_4uRwPPuiyz8_1zZrbksHxJkq?usp=sharing) |
+| Presentación | [Diapositivas](https://canva.link/28qijb1dwxftrtt) |
+| Repositorio | [GitHub](https://github.com/Whelee09/NeuralAgro-Diagnostic) |
 
 ---
 
