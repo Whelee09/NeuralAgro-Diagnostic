@@ -1,6 +1,8 @@
 # Sistema de Diagnóstico Fitosanitario del Tomate
 ### Clasificación de Enfermedades en Hojas de Tomate mediante Aprendizaje Automático
 
+![Banner del proyecto](proyecto.png)
+
 ---
 
 ## Autores
